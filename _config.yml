@@ -1,11 +1,11 @@
 # Site settings
-author: Sara Robinson
-title: 
+author: Sara
+title: My Data Science Journey
 header-img: img/home-bg.png
 email: sara.robinson27@gmail.com
-copyright_name: Sara Robinson
+copyright_name: Sara
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The Winding Road to Becoming a Data Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  srobz
